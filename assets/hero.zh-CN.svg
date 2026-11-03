@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">Lynette Thinking — What would Lynette do?</title>
+<desc id="desc">What would Lynette do? 借 Lynette 的视角，把下一步想清楚。职场、家庭与朋友关系。</desc>
+<rect width="1280" height="640" rx="24" fill="#F5F2EA"/>
+<path d="M32 92H1248M32 548H1248" stroke="#D7D9CC"/>
+<text x="64" y="59" fill="#244A42" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="700" letter-spacing="3">一种用得上的思考方式</text>
+<text x="1216" y="59" text-anchor="end" fill="#6A776E" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14" letter-spacing="2">职场 / 家庭 / 朋友</text>
+<text x="60" y="220" fill="#244A42" font-family="Georgia, serif" font-size="89" letter-spacing="-3">Lynette</text>
+<text x="60" y="315" fill="#244A42" font-family="Georgia, serif" font-size="89" letter-spacing="-3">Thinking</text>
+<text x="64" y="383" fill="#9A5B2C" font-family="Georgia, serif" font-size="38" font-style="italic">What would Lynette do?</text>
+<text x="66" y="431" fill="#244A42" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="26">把下一步想清楚。</text>
+<text x="66" y="470" fill="#69766D" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="19">看清真实条件，找到可用的帮助。</text>
+<text x="66" y="499" fill="#69766D" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="19">想清楚怎么做，也知道怎么开口。</text>
+<rect x="787" y="138" width="427" height="353" rx="30" fill="#E8EBDF"/>
+<path d="M834 206H910Q940 206 940 239V290Q940 318 977 318H1134" stroke="#A9B7AA" stroke-width="3" fill="none"/>
+<path d="M834 432H910Q940 432 940 399V346Q940 318 977 318" stroke="#A9B7AA" stroke-width="3" fill="none"/>
+<path d="M834 318H1134" stroke="#244A42" stroke-width="7" stroke-linecap="round"/>
+<path d="m1117 301 18 17-18 17" stroke="#244A42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="834" cy="206" r="9" fill="#F5F2EA" stroke="#A9B7AA" stroke-width="3"/>
+<circle cx="834" cy="318" r="10" fill="#244A42"/>
+<circle cx="834" cy="432" r="9" fill="#F5F2EA" stroke="#A9B7AA" stroke-width="3"/>
+<circle cx="1076" cy="318" r="22" fill="#C77F45"/>
+<circle cx="1076" cy="318" r="6" fill="#F5F2EA"/>
+<text x="1000" y="190" text-anchor="middle" fill="#69766D" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="13" letter-spacing="2">不止一条路可以走</text>
+<text x="1000" y="458" text-anchor="middle" fill="#244A42" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="16">先找到一步，再把上下文补清楚。</text>
+<text x="1216" y="592" text-anchor="end" fill="#69766D" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="14">受角色启发的独立 Skill</text>
+</svg>

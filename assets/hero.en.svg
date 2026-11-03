@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+<title id="title">Lynette Thinking — What would Lynette do?</title>
+<desc id="desc">What would Lynette do? Borrow Lynette’s perspective for a clearer next move. Workplace, family, and friendship.</desc>
+<rect width="1280" height="640" rx="24" fill="#F5F2EA"/>
+<path d="M32 92H1248M32 548H1248" stroke="#D7D9CC"/>
+<text x="64" y="59" fill="#244A42" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">A PRACTICAL PERSPECTIVE</text>
+<text x="1216" y="59" text-anchor="end" fill="#6A776E" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">WORK / HOME / FRIENDS</text>
+<text x="60" y="220" fill="#244A42" font-family="Georgia, serif" font-size="89" letter-spacing="-3">Lynette</text>
+<text x="60" y="315" fill="#244A42" font-family="Georgia, serif" font-size="89" letter-spacing="-3">Thinking</text>
+<text x="64" y="383" fill="#9A5B2C" font-family="Georgia, serif" font-size="38" font-style="italic">What would Lynette do?</text>
+<text x="66" y="431" fill="#244A42" font-family="Arial, sans-serif" font-size="26">A clearer next move.</text>
+<text x="66" y="470" fill="#69766D" font-family="Arial, sans-serif" font-size="19">See the constraints. Find real support.</text>
+<text x="66" y="499" fill="#69766D" font-family="Arial, sans-serif" font-size="19">Decide what to do and what to say.</text>
+<rect x="787" y="138" width="427" height="353" rx="30" fill="#E8EBDF"/>
+<path d="M834 206H910Q940 206 940 239V290Q940 318 977 318H1134" stroke="#A9B7AA" stroke-width="3" fill="none"/>
+<path d="M834 432H910Q940 432 940 399V346Q940 318 977 318" stroke="#A9B7AA" stroke-width="3" fill="none"/>
+<path d="M834 318H1134" stroke="#244A42" stroke-width="7" stroke-linecap="round"/>
+<path d="m1117 301 18 17-18 17" stroke="#244A42" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="834" cy="206" r="9" fill="#F5F2EA" stroke="#A9B7AA" stroke-width="3"/>
+<circle cx="834" cy="318" r="10" fill="#244A42"/>
+<circle cx="834" cy="432" r="9" fill="#F5F2EA" stroke="#A9B7AA" stroke-width="3"/>
+<circle cx="1076" cy="318" r="22" fill="#C77F45"/>
+<circle cx="1076" cy="318" r="6" fill="#F5F2EA"/>
+<text x="1000" y="190" text-anchor="middle" fill="#69766D" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">MORE THAN ONE WAY THROUGH</text>
+<text x="1000" y="458" text-anchor="middle" fill="#244A42" font-family="Arial, sans-serif" font-size="16">One useful step. Then better context.</text>
+<text x="1216" y="592" text-anchor="end" fill="#69766D" font-family="Arial, sans-serif" font-size="14">An independent, character-inspired skill</text>
+</svg>

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Lynette Thinking"
+  short_description: "借 Lynette 的判断与行动过程，逐步处理职场、家庭和朋友困境，跟进落实与结果"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+  brand_color: "#244A42"
+  default_prompt: "请用 $lynette-thinking 帮我处理这个困境，先推进当前最有用的一步，需要时少量追问，并根据实际反馈继续调整。"
