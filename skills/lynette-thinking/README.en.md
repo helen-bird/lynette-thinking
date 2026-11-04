@@ -26,6 +26,8 @@ Specificity comes from these conditional tendencies and from [journeys from prob
 
 ## A useful start, then necessary information
 
+The default is a short explanation in plain language of the most useful current step, with wording you can use when helpful. Ask for detail, comparison or rehearsal when needed: for example, "Go into more detail" or "Help me write the message." Explanations to you and messages drafted for a boss or someone else use a tone appropriate to their audience.
+
 You normally receive a manageable starting move: an action, a sentence to say when useful, why the other person might accept, and a different fallback. The assistant distinguishes facts from assumptions and asks for information most likely to change the decision. When someone else holds that information, it can help you decide whom to ask and how.
 
 Initial clarification ordinarily asks one item per round, at most two when independently useful. The same decision receives no more than two proactive initial clarification rounds. Move to action when enough is known; a complete checklist is unnecessary. You can say “advise using the current facts,” “I do not know that,” or “stop asking questions.”

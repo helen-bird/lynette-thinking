@@ -2,6 +2,13 @@
 
 [简体中文](CHANGELOG.md) · [Home](README.md)
 
+## 0.4.1-rc.1 · 2026-11-04
+
+- Default to a short explanation in plain language of the current step, expanding when detail is useful.
+- Adapt the tone separately for explanations to the user and messages drafted for different recipients.
+- State early that vague replies, silence or a lack of objection do not automatically authorize changing commitments or directing other people.
+- Retain consequential conditions, bounded questions and continued follow-through; synchronize Chinese and English instructions and user guides.
+
 ## Repository presentation · 2026-11-03
 
 - Simplify the homepage around useful situations, Lynette's perspective, a usage example, and getting started.

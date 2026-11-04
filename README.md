@@ -16,7 +16,7 @@ An AI Skill inspired by Lynette from *Desperate Housewives*, helping you work th
 | Family | “My mother needs help several times a week. How can we meet the actual need in a way I can sustain?” |
 | Friends | “My friend keeps canceling. I want to see her without keeping evenings free for plans that fall through.” |
 
-Start with what you know. You get a useful starting point, then a few questions about information that could change the next step. Return with what happened to work through the next obstacle.
+Start with what you know. The default is a short reply in plain language, focused on a useful next step and wording you can use when helpful. Ask for more detail when needed. Return with what happened to work through the next obstacle.
 
 ## Borrow her way of looking
 
